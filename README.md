@@ -18,3 +18,5 @@ A lightweight neural net (called MLNet, written by Konstantin Boukreev back in 2
 
 It’s not deep learning or anything fancy but it actually works pretty well.
 
+![Demo](gesture_demo.gif)
+
